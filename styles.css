@@ -209,7 +209,7 @@ header {
   border-radius: 10px;
   /* gap: 1em; */
   color: var(--clr-secondary-200);
-  height: 80px;
+  height: 96px;
 }
 
 .avatar-wrapper {
