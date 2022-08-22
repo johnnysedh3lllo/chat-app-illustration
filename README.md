@@ -35,7 +35,7 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS custom properties
-- CSS Grid
+- CSS Flexbox
 - Mobile-first workflow
 
 ### What I learned
